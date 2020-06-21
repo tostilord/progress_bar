@@ -1,6 +1,6 @@
 import random
 import time
-from random_words import RandomWords
+from random_words import RandomWords  # pip install RandomWords
 
 
 def progress_bar(percent, width=30):
