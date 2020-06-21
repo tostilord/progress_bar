@@ -1,3 +1,6 @@
+# note that this is not threadsafe
+# strange artefacts can happen in threaded applications
+
 import random
 import time
 from random_words import RandomWords  # pip install RandomWords
